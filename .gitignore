@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+# C extensions
+
+# Distribution / packaging
+.Python
+venv/
+
+#model and yaml files
+*.pt 
+*.yaml
+
+#model files
+runs/
