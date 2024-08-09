@@ -9,6 +9,8 @@ venv/
 #model and yaml files
 *.pt 
 *.yaml
+*.json
+*.onnx
 
 #model files
 runs/
